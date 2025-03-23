@@ -11,3 +11,5 @@ Como medida se tiene la cantidad de copias vendidas.
 # Herramienta de desarrollo
 Se utilizó Power BI para la transformación de datos generando solamente una tabla con los datos de los videojuegos
 Una opción destacable de power bi es :
+
+![Dinamización de columnas](imagenes/opcion_de_dinamizacion_columnas.png)
